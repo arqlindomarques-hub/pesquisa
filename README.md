@@ -1,0 +1,2 @@
+Programa em linguagem Pytrhon que visa fazer uma pesquisa de opinião sobre o atendimento de um serviço prestado, no qual são coletados os dados e oferecido escolhas, no final é feito a contagem total de votos para cada opição, originalmente para 50 entrevistas, porém 10 para teste.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
